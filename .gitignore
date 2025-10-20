@@ -1,4 +1,4 @@
 
 .devcontainer/
-.env
+# .env
 config/
